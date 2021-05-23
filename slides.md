@@ -14,6 +14,8 @@ Gaurav Agarwal
 
 # Agenda
 
+* Rust is *AWESOME*
+
 ---
 
 class: center, middle
