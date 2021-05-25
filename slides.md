@@ -129,6 +129,8 @@ digits.into_iter()
   }) % 10 == 0
 ```
 
+.content-credits[https://exercism.io/tracks/rust/exercises/luhn/solutions/9c2d35bc03dd435f9f51015fea70752c]
+
 ---
 class: center, middle
 
@@ -155,6 +157,7 @@ class: center, middle
 ---
 
 * Statically typed, type inferred language
+* Immutable by default
 * References and smart references
 * `struct` with methods & associated functions
 * Traits
@@ -284,6 +287,8 @@ class: center, middle
 
 # References
 
+* [Why scientists are turning to Rust](https://www.nature.com/articles/d41586-020-03382-2)
+* [Experience of using Rust in prod for >6 months](https://www.qovery.com/blog/i-use-rust-in-production-for-6-months-heres-my-feedback)
 * [Open Source projects in Rust](https://serokell.io/blog/open-source-rust)
 * [Rust Companies](https://serokell.io/blog/rust-companies)
 * [Disadvantages of Rust](https://www.reddit.com/r/rust/comments/4b723c/what_are_the_disadvantages_of_rust/)
@@ -291,7 +296,7 @@ class: center, middle
 ---
 class: center, middle
 
-![ferris](assets/images/ferris.png)
+![ferris](assets/images/ferris-small.png)
 
 ## Workshop Code & Examples
 
