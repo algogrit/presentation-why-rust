@@ -83,6 +83,11 @@ class: center, middle
 ---
 class: center, middle
 
+📚 Content > 🕒 Time
+
+---
+class: center, middle
+
 ## Show of hands
 
 *Yay's - in Chat*
