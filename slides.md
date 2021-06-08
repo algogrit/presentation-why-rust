@@ -75,6 +75,7 @@ class: center, middle
 * Be *on mute* unless you are speaking
 
 ---
+class: center, middle
 
 ## Class progression
 
@@ -83,7 +84,7 @@ class: center, middle
 ---
 class: center, middle
 
-📚 Content > 🕒 Time
+### 📚 Content ` > ` 🕒 Time
 
 ---
 class: center, middle
