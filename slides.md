@@ -84,6 +84,38 @@ class: center, middle
 ---
 class: center, middle
 
+Here you are trying to *learn* something, while here your *brain* is doing you a favor by making sure the learning doesn't stick!
+
+---
+
+### Some tips
+
+* Slow down => stop & think
+  * listen for the questions and answer
+
+* Do the exercises
+  * not add-ons; not optional
+
+* There are no dumb questions!
+
+* Drink water. Lots of it!
+
+---
+
+### Some tips (continued)
+
+* Take notes
+  * Try: *Repetitive Spaced Out Learning*
+
+* Talk about it out loud
+
+* Listen to your brain
+
+* *Experiment!*
+
+---
+class: center, middle
+
 ### 📚 Content ` > ` 🕒 Time
 
 ---
