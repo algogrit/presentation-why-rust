@@ -139,6 +139,15 @@ class: center, middle
 ---
 class: center, middle
 
+*Energy Efficient*
+
+![Energy Efficient](assets/images/rust-energy-efficient.png)
+
+.content-credits[https://thenewstack.io/which-programming-languages-use-the-least-electricity/]
+
+---
+class: center, middle
+
 # Rust's programming style
 
 ---
